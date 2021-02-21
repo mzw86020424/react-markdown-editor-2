@@ -1,0 +1,19 @@
+{
+  "name":"react-markdown-editor-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mzw86020424/react-markdown-editor-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mzw86020424/react-markdown-editor-2/issues"
+  },
+  "homepage": "https://github.com/mzw86020424/react-markdown-editor-2#readme"
+}
